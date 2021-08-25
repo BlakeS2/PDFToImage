@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PDFToImage": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\test\\green-forest.jpg"
+    }
+  }
+}
